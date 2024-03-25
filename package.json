@@ -8,7 +8,6 @@
     "@mui/icons-material": "^5.15.13",
     "@mui/material": "^5.15.13",
     "@mui/styled-engine-sc": "^6.0.0-alpha.17",
-    "@mui/styles": "^5.15.13",
     "@mui/system": "^5.15.13",
     "@mui/x-date-pickers": "^6.19.7",
     "@testing-library/jest-dom": "^5.17.0",
